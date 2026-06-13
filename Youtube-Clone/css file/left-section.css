@@ -1,0 +1,33 @@
+.left-col{
+    left: 0;
+    top: 57px;
+    bottom: 0;
+    z-index: 200;
+    position: fixed;
+    background-color: white;
+    width: 72px;
+}
+.col1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 10px;
+    align-items: center;
+    height: 90px;
+    width: 25px;
+    padding-left: 20px;
+    padding-right: 27px;
+}
+
+.col1:hover{
+    background-color: lightgray;
+}
+.sub1{
+    width: 70px;
+    padding-top: 5px;
+    padding-left: 6px;
+}
+.sub{
+    padding-top: 5px;
+}
+
