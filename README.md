@@ -6,7 +6,7 @@ Welcome to my frontend development playground! This repository contains pixel-pe
 
 ### 1. Flipkart Clone
 * **Status**: Completed ✅
-* **Folder Location**: `/Flipkart-Clone`
+* **Folder Location**: `/FlipkartClone`
 * **Core Focus**: Replicating modern e-commerce navigation, sticky header structures, and horizontally scrollable category strips.
 
 ### 2. BookMyShow Clone
